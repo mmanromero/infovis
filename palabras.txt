@@ -1,0 +1,1 @@
+visualization techniques,deluge of data,see patterns,spot trends,identify outliers,accurate decoding,stacked graphs,small multiples,parallel coordinates,graduated gymbol maps,adjacency diagrams,graphical perception 
